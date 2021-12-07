@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "174417754643",
+    "project_id": "rncontacts-11887",
+    "storage_bucket": "rncontacts-11887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174417754643:android:0fecd08badf1ce78c65de6",
+        "android_client_info": {
+          "package_name": "com.nativecontactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174417754643-l456pk5d04u91sr33e7r6hfgihrncks2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5gROL3-SNH5F8dTh-3-Q7iqJAtnDqXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174417754643-l456pk5d04u91sr33e7r6hfgihrncks2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174417754643-uvho816u44g8g336pqi0pcfcgbfm8215.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.nativeContactApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
